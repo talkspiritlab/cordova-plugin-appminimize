@@ -1,3 +1,5 @@
+## ⚠️ THIS PROJECT IS NOT MAINTAINED NOR USED BY OUR TEAM ANY MORE. PLEASE DO NOT USE IT. 
+
 # cordova-plugin-appminimize [![License](https://img.shields.io/github/license/tomloprod/cordova-plugin-appminimize.svg)](http://www.opensource.org/licenses/mit-license.php)
 
 **AppMinimize** is a cordova plugin to minimize the application in android devices
